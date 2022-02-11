@@ -1,0 +1,16 @@
+#btn{
+background-color: #CF9683;
+border-radius: 999em;
+color:black;
+text-decoration: none;
+padding:10px 15px;
+border-radis: 4px;  
+line-height:35px;
+font-size:19px;
+ transition: color 0.7s ease;
+ }
+ #btn:hover{
+ background-color: black;
+ color:#CF9683;
+ text-decoration: none;
+ }

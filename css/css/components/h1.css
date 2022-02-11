@@ -1,0 +1,11 @@
+h1 {
+  margin-block: 0 0.5em;
+  font-size:65px;;
+  line-height: 70px;
+  margin: 40px;
+  font-weight: 900;
+  background: url("https://i.pinimg.com/736x/81/6f/d8/816fd8828dc108889f44a638935aa34b.jpg");
+  background-size:30%;
+  -webkit-background-clip: text;
+   color: rgba(0,0,0,0.08);
+}
